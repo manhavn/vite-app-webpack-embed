@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "dracula-theme.theme-dracula",
+    "esbenp.prettier-vscode",
+    "TabNine.tabnine-vscode",
+    "ritwickdey.LiveServer"
+  ]
+}
